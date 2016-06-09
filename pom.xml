@@ -3,7 +3,7 @@
     <groupId>org.chunkiat82.app</groupId>
     <artifactId>jgitflow-test</artifactId>
     <packaging>jar</packaging>
-    <version>1.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>jgitflow-test</name>
     <url>http://maven.apache.org</url>
     <dependencies>
