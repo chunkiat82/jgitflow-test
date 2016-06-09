@@ -31,7 +31,7 @@
                 <version>1.0-m5.1</version>
                 <configuration>
                     <flowInitContext>
-                        <masterBranchName>release</masterBranchName>
+                        <masterBranchName>master</masterBranchName>
                         <developBranchName>develop</developBranchName>
                         <featureBranchPrefix>feature-</featureBranchPrefix>
                         <releaseBranchPrefix>release-</releaseBranchPrefix>
